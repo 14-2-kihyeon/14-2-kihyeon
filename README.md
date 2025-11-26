@@ -1,6 +1,6 @@
 # 14-2-kihyeon
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaaldud71)](https://solved.ac/rlaaldud71/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shjung2506)](https://solved.ac/shjung2506/)
 
 
 
